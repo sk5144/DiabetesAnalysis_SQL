@@ -2,7 +2,7 @@
 # Exploring Diabetes, Medication, and Cognitive Decline
 
 Over 37 million individuals in the US are affected by diabetes, with a significant portion unaware of their condition. Similarly, 96 million adults in the country have prediabetes, with a high percentage unaware of their status. Tragically, diabetes ranks as the eighth leading cause of death in the US, potentially being underreported. The past two decades have witnessed a drastic increase in diabetes diagnoses, paralleling the aging population and rising obesity rates.
-![Diabetes   Cognitive Decline (1)](https://github.com/KrishnaVidja/DiabetesData_SQL_PowerBI/assets/106781881/82e73cbc-d30f-4bbe-9050-72224a9bf7ac)
+
 
 ### Introduction
 My primary focus was on examining demographic data and patients' medical histories, culminating in the development of interactive dashboards to showcase my discoveries. These dashboards highlighted the relationships between diabetes and hypertension, changes in alcohol and tobacco use among diabetes patients, and the impact of diabetes and cognitive decline on lipid profiles. I also explored the effects of medication on lipid profiles and cognitive decline, utilizing additional data sources to enrich my analysis. My approach demonstrated a commitment to precise data interpretation, the capacity to design user-friendly dashboards, and adept problem-solving skills, including data modeling.
